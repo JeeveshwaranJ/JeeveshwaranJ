@@ -51,6 +51,9 @@ AI Coding Assistants
 VisionVox is a real-time AI installation assistant that helps customers set up products using voice, camera, and AI guidance.
 Customers simply scan a QR code on the product box, and VisionVox opens with the correct product assistant.
 
+### 🔹 VISIO — AI Vision Assistant
+An AI-powered image analysis tool built with Node.js, Express, and Azure OpenAI GPT-4o Mini. Upload any image and get instant AI-generated descriptions, text extraction, object detection, captions, and more — all through a clean browser interface
+
 ### 🔹 Vehicle Breakdown Assistance System
 A platform that helps drivers quickly request roadside assistance and share their location during emergencies.
 
