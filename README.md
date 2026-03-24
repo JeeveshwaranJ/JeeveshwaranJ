@@ -47,7 +47,9 @@ AI Coding Assistants
 
 ## 🚀 Featured Projects
 
-
+### 🔹 Visionvox
+VisionVox is a real-time AI installation assistant that helps customers set up products using voice, camera, and AI guidance.
+Customers simply scan a QR code on the product box, and VisionVox opens with the correct product assistant.
 
 ### 🔹 Vehicle Breakdown Assistance System
 A platform that helps drivers quickly request roadside assistance and share their location during emergencies.
