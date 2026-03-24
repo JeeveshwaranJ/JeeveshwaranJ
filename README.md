@@ -54,6 +54,15 @@ Customers simply scan a QR code on the product box, and VisionVox opens with the
 ### 🔹 VISIO — AI Vision Assistant
 An AI-powered image analysis tool built with Node.js, Express, and Azure OpenAI GPT-4o Mini. Upload any image and get instant AI-generated descriptions, text extraction, object detection, captions, and more — all through a clean browser interface
 
+### 🔹 CodeSense AI — Intelligent Code Reviewer
+CodeSense AI is an AI-powered repository analysis platform that reviews GitHub projects, detects bugs, explains code logic, and suggests improvements automatically.
+The system allows developers to upload a GitHub repository and interact with it using an AI agent, making it easier to understand large codebases, detect problems, and improve code quality.
+Instead of manually reviewing thousands of lines of code, developers can chat with their repository and receive intelligent insights instantly.
+
+### 🔹 DataGPT — Chat With Your Data
+DataGPT is an AI-powered data analysis and editing workspace that allows users to upload datasets and interact with them using natural language.
+Users can ask questions about their data, generate visualizations, modify datasets through AI commands, and export cleaned data in multiple formats.
+
 ### 🔹 Vehicle Breakdown Assistance System
 A platform that helps drivers quickly request roadside assistance and share their location during emergencies.
 
