@@ -22,7 +22,7 @@ My focus is on solving real-world problems using machine learning, computer visi
 **Languages**
 
 Python  
-JavaScript / TypeScript  
+C  
 SQL  
 
 **AI & Data**
@@ -30,13 +30,11 @@ SQL
 OpenAI API  
 Machine Learning Basics  
 Data Analysis (Pandas / NumPy)  
-Computer Vision  
+ 
 
 **Development**
-
-React  
-Node.js  
-REST APIs  
+AI tools
+AI Agent
 Automation Tools  
 
 **Tools**
@@ -49,8 +47,7 @@ AI Coding Assistants
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Vision Voice Assistant
-An AI-powered application that captures images and describes the environment using computer vision and voice output to assist visually impaired users.
+
 
 ### 🔹 Vehicle Breakdown Assistance System
 A platform that helps drivers quickly request roadside assistance and share their location during emergencies.
@@ -58,8 +55,7 @@ A platform that helps drivers quickly request roadside assistance and share thei
 ### 🔹 Speed Breaker Warning System
 A smart road safety system that alerts drivers about upcoming speed breakers to prevent accidents.
 
-### 🔹 AI Voice Call Application
-A prototype AI voice system designed to automate conversations and assist users through voice interaction.
+
 
 ---
 
@@ -71,7 +67,7 @@ A prototype AI voice system designed to automate conversations and assist users 
 
 ## 📫 Contact
 
-📧 Email: your-email@example.com  
+📧 Email: jeevajeevesh72@gmail.com
 🌐 GitHub: https://github.com/JeeveshwaranJ  
 
 ---
