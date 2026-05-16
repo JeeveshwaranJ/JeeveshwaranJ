@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeeveshwaran%20J&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Mumbai&descAlignY=52&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeeveshwaran%20J&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Chennai&descAlignY=52&descAlign=50)
 
 <div align="center">
 
@@ -125,7 +125,6 @@ Upload any image and get instant AI-generated descriptions, text extraction, obj
 
 ![Snake](https://raw.githubusercontent.com/JeeveshwaranJ/JeeveshwaranJ/output/github-contribution-grid-snake-dark.svg)
 
-> ⚠️ The snake animation above requires the GitHub Action setup (see section 6 in the upgrade guide). Until then, remove this section.
 
 ---
 
@@ -135,7 +134,7 @@ I reply fast. If you have an interesting problem to solve, reach out.
 
 [![Email](https://img.shields.io/badge/Email-jeevajeevesh72%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevajeevesh72@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JeeveshwaranJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeeveshwaranJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeveshwaran-j/)
 
 ---
 
