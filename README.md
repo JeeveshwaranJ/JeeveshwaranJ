@@ -1,75 +1,85 @@
-# Hi there 👋 I'm Jeeveshwaran
+# Jeeveshwaran J
 
-🚀 AI Developer | Data Analyst | Automation Builder
+**Full-Stack Developer & AI Builder · Mumbai, IN**
 
-I build intelligent applications using AI, automation, and modern web technologies.  
-My focus is on solving real-world problems using machine learning, computer vision, and data analysis.
+I build things that work — web apps, AI pipelines, automation systems, and chatbots.
+I care about clean architecture, real-world utility, and shipping fast.
+If there's a problem worth solving, I want to build the solution.
 
----
-
-## 🧠 Interests
-
-- Artificial Intelligence
-- Data Analysis & Data Visualization
-- Automation Systems
-- Computer Vision Applications
-- AI-powered Web Applications
+![Open to remote](https://img.shields.io/badge/Open%20to%20Remote-brightgreen?style=flat-square)
+![Available for freelance](https://img.shields.io/badge/Available%20for%20Freelance-blue?style=flat-square)
+![Open to collaboration](https://img.shields.io/badge/Open%20to%20Collaboration-purple?style=flat-square)
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**
-
-Python  
-C  
-SQL  
+`Python` `JavaScript` `TypeScript` `SQL` `C`
 
 **AI & Data**
+`OpenAI API` `Azure OpenAI` `LangChain` `Pandas` `NumPy` `Scikit-learn`
 
-OpenAI API  
-Machine Learning Basics  
-Data Analysis (Pandas / NumPy)  
- 
+**Backend & Cloud**
+`Node.js` `Express` `FastAPI` `Firebase` `Cloud Functions` `REST APIs`
 
-**Development**
-AI tools
-AI Agent
-Automation Tools  
-
-**Tools**
-
-VS Code  
-Git & GitHub  
-AI Coding Assistants  
+**Frontend & Tools**
+`React` `HTML/CSS` `Git` `Docker` `PostgreSQL` `MongoDB`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Visionvox
-VisionVox is a real-time AI installation assistant that helps customers set up products using voice, camera, and AI guidance.
-Customers simply scan a QR code on the product box, and VisionVox opens with the correct product assistant.
+### CodeSense AI — Intelligent Code Reviewer
+Upload a GitHub repo and chat with it. Detects bugs, explains logic, and suggests improvements across large codebases — no manual review needed. Built an AI agent that turns hours of code review into a conversation.
 
-### 🔹 VISIO — AI Vision Assistant
-An AI-powered image analysis tool built with Node.js, Express, and Azure OpenAI GPT-4o Mini. Upload any image and get instant AI-generated descriptions, text extraction, object detection, captions, and more — all through a clean browser interface
+`Python` `LangChain` `OpenAI API` `FastAPI` `GitHub API`
 
-### 🔹 CodeSense AI — Intelligent Code Reviewer
-CodeSense AI is an AI-powered repository analysis platform that reviews GitHub projects, detects bugs, explains code logic, and suggests improvements automatically.
-The system allows developers to upload a GitHub repository and interact with it using an AI agent, making it easier to understand large codebases, detect problems, and improve code quality.
-Instead of manually reviewing thousands of lines of code, developers can chat with their repository and receive intelligent insights instantly.
+🔗 [View repo](#) · [Live demo](#)
 
-### 🔹 DataGPT — Chat With Your Data
-DataGPT is an AI-powered data analysis and editing workspace that allows users to upload datasets and interact with them using natural language.
-Users can ask questions about their data, generate visualizations, modify datasets through AI commands, and export cleaned data in multiple formats.
+---
 
-### 🔹 Vehicle Breakdown Assistance System
-A platform that helps drivers quickly request roadside assistance and share their location during emergencies.
+### DataGPT — Chat With Your Data
+Natural language interface for datasets. Ask questions, generate visualizations, and clean/export data — no SQL or Pandas required. Designed for analysts who want speed over syntax.
 
-### 🔹 Speed Breaker Warning System
-A smart road safety system that alerts drivers about upcoming speed breakers to prevent accidents.
+`Python` `Pandas` `OpenAI API` `Streamlit` `Plotly`
 
+🔗 [View repo](#) · [Live demo](#)
 
+---
+
+### VisionVox — AI Product Setup Assistant
+Scan a QR code on a product box and get a real-time AI-guided installation assistant using voice and camera. Reduced customer support friction for physical product onboarding.
+
+`Node.js` `Azure OpenAI` `Computer Vision` `WebRTC` `QR API`
+
+🔗 [View repo](#)
+
+---
+
+### VISIO — AI Vision Assistant
+Upload any image and get instant AI-generated descriptions, text extraction, object detection, and captions — all in a clean browser interface. Built on Node.js, Express, and GPT-4o Mini.
+
+`Node.js` `Express` `Azure OpenAI` `GPT-4o Mini`
+
+🔗 [View repo](#) · [Live demo](#)
+
+---
+
+### Vehicle Breakdown Assistance System
+Drivers in distress can instantly request roadside assistance and share live location. Built for speed and reliability in emergency scenarios — minimal taps to get help.
+
+`Firebase` `Geolocation API` `Node.js` `Cloud Functions`
+
+🔗 [View repo](#)
+
+---
+
+## 🔨 What I'm Working on Now
+
+- **Building** — an AI agent platform for automated freelance workflow management
+- **Exploring** — RAG pipelines, multi-agent orchestration, and voice AI interfaces
+- **Learning** — production deployment with Docker, CI/CD, and cloud-native architecture
 
 ---
 
@@ -79,25 +89,10 @@ A smart road safety system that alerts drivers about upcoming speed breakers to 
 
 ---
 
-## 📫 Contact
+## 📫 Let's Work Together
+
+I reply fast. If you have an interesting problem to solve, reach out.
 
 📧 Email: jeevajeevesh72@gmail.com
-🌐 GitHub: https://github.com/JeeveshwaranJ  
-
----
-
-⭐ Always learning, building, and exploring new technologies in AI and data.
-<!--
-**JeeveshwaranJ/JeeveshwaranJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐙 GitHub: [github.com/JeeveshwaranJ](https://github.com/JeeveshwaranJ)
+💼 LinkedIn: *[Add your LinkedIn URL here]*
