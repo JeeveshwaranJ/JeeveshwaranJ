@@ -52,12 +52,17 @@ If there's a problem worth solving, I want to build the solution.
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeeveshwaranJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeveshwaranJ&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JeeveshwaranJ&theme=tokyonight&hide_border=true" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JeeveshwaranJ&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -134,7 +139,7 @@ I reply fast. If you have an interesting problem to solve, reach out.
 
 [![Email](https://img.shields.io/badge/Email-jeevajeevesh72%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevajeevesh72@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JeeveshwaranJ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeeveshwaranJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeveshwaran-j/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JeeveshwaranJ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeeveshwaran-j/)
 
 ---
 
