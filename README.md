@@ -51,21 +51,31 @@ If there's a problem worth solving, I want to build the solution.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeeveshwaranJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeveshwaranJ&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api?username=JeeveshwaranJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&cache_seconds=86400" />
+
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeveshwaranJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JeeveshwaranJ&theme=tokyonight&hide_border=true" />
+
+  <img
+    src="https://streak-stats.demolab.com?user=JeeveshwaranJ&theme=tokyonight&hide_border=true&background=00000000" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeeveshwaranJ&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=JeeveshwaranJ&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
 </div>
 
 ---
